@@ -1,0 +1,11 @@
+# Ignorar archivos con la extensión .log
+*.log
+
+# Ignorar el directorio build
+/build
+
+.gradle
+
+target/
+
+.idea/
